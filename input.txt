@@ -1,0 +1,2 @@
+This is practice of file handling and except. try and catch error method in python.
+here, i learnt how to read, write, append and read and write objects or images.
